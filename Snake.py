@@ -1,7 +1,5 @@
-from ast import Return
 from tkinter import *
 import random
-from turtle import window_height, window_width
 
 GAME_WIDTH = 700
 GAME_HEIGHT = 700
